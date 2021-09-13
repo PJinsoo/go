@@ -55,6 +55,7 @@ func main() {
 }
 */
 
+/*
 //난수 추출된 수의 소수 판정 프로그램 v0.2
 func main() {
 	seed := time.Now().Unix()
@@ -76,8 +77,8 @@ func main() {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
 }
+*/
 
-/*
 //난수 추출된 수의 소수 판정 프로그램 v0.3
 func main() {
 	seed := time.Now().Unix()
@@ -99,7 +100,6 @@ func main() {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
 }
-*/
 
 /*
 //난수 추출된 수의 소수 판정 프로그램 v0.4
