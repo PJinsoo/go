@@ -6,7 +6,6 @@ import (
 	"time" // seed 생성용 패키지
 )
 
-/*
 func main() {
 	//난수 추출된 수의 소수 판정 프로그램 v0.6
 	seed := time.Now().Unix()
@@ -29,7 +28,6 @@ func main() {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
 }
-*/
 
 /*
 //난수 추출된 수의 소수 판정 프로그램 v0.1
@@ -103,6 +101,7 @@ func main() {
 }
 */
 
+/*
 //난수 추출된 수의 소수 판정 프로그램 v0.4
 func main() {
 	seed := time.Now().Unix()
@@ -124,6 +123,7 @@ func main() {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
 }
+*/
 
 /*
 package main
